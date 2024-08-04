@@ -1,16 +1,25 @@
 This program is a project program that I created while learning Tkinter
 
 Where this project contains doctor data and patient data management
+
 Doctor data consists of :
+
 -Name
+
 -specialist
+
 -address
+
 -telephone number
 
 Patient data consists of :
+
 -Name
+
 -Address
+
 -Telephone Number
+
 -Complaints
 
 where the data is stored in a sqlite database using the sqlite3 library so that the data is stored dynamically
